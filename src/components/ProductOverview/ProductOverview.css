@@ -1,0 +1,7 @@
+.review-star{
+    float:left;
+}
+.separator{
+    border: 1px solid gray;
+    margin: 2px 10px 2px 10px;
+}
